@@ -36,6 +36,7 @@ public class FeedDetailActivity extends AppCompatActivity implements View.OnClic
         /*
         * Initialisation of id's
         * */
+
         init();
 
     }

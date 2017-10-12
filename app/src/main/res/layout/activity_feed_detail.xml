@@ -13,6 +13,7 @@
         android:layout_height="50dp"
         android:gravity="center_vertical"
         android:textSize="18dp"
+        android:paddingLeft="10dp"
         android:background="@color/toolbar_color"
         android:textColor="@color/toolbar_textcolor"/>
 
